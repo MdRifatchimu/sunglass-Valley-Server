@@ -123,6 +123,12 @@ async function run() {
       res.json({admin: isAdmin});
     });
 
+    app.get("/users", async (req, res) => {
+      const cursor = usersCollection.find({});
+      const result = await cursor.toArray();
+      res.json(result);
+    });
+
     // Add a user
     app.post("/users", async (req, res) => {
       const user = req.body;
