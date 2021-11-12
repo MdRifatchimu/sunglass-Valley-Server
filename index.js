@@ -28,7 +28,7 @@ async function run() {
     const reviewCollection = database.collection("reviews");
     const usersCollection = database.collection("users");
 
-    // Get all products
+    // Get all products.
     app.get("/products", async (req, res) => {
       const cursor = productsCollection.find({});
       const products = await cursor.toArray();
