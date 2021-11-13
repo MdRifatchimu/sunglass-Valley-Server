@@ -31,6 +31,7 @@
 <li>I also used PrivateRoute so hide some parts of the  website from the guest users.</li>
 <li>I used React Hook form</li>
 <li>I also used React Hashlink</li>
+<li>I also used nested route from react-router-dom</li>
 
 </ul>
 <h2> Desktop View Of The Website HomePage</h2>
