@@ -13,7 +13,7 @@
 <h2>Basically it's a website of Sunglass Selling Service Website which Shows Their Portfolio and Services.</h2>
 <h2>Some Steps Of Creating This Website.</h2>
 <ul>
-<li>I made This Website Because of exploring and testing my knowledge of MongoDb, Heroku, react router, Private Route, React Bootstrap, Hash Link, Dynamic Route, Firebase Authentication and Context Api, Auth Provider which i learn from programming hero web development course. </li>
+<li>I made This Website Because of exploring and testing my knowledge of MongoDb, Heroku, react router, Private Route, React Bootstrap, Hash Link, Dynamic Route, Firebase Authentication and Context Api, Auth Provider . </li>
 <li>I used Bootstrap, Mui , React Bootstrap alongside with Font Awesome to make this Website beautiful.</li>
 <li>Firstly I created a database in mongodb and hosted the database in heroku so that i can show data's from that database in my website </li>
 <li>Then I Made The Header and footer Section Of The Website in the shared folder</li>
